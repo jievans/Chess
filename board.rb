@@ -121,11 +121,6 @@ class Board
     new_board
   end
 
-  # def deep_dup
-#    YAML.load(self.to_yaml)
-#   end
-
 end
 
 
-#TO_DO add a simpler/custom dup method for Board
